@@ -1,0 +1,36 @@
+﻿import random
+options=["foot","nuke","cockroach"]
+gamestart=True
+
+while gamestart==True:
+    print("Welcome to Foot, Nuke, Cockroach!")
+    print("please choose the following:)")
+    print("1. Foot")
+    print("2. Nuke")
+    print("3. Cockroach")
+    playerschoice=input("Enter your choice: ")
+    if playerschoice not in options:
+        print("invalid choice")
+        playerschoice=input("Enter your choice: ")
+
+    
+    botchoice = random.choice(options)
+
+    if playerschoice == "foot" and  botchoice == "cockroach":
+        print("Foot squashes cockroach, You win!!!!!!!!!!!!!")
+    elif playerschoice=="nuke " and botchoice=="foot:":
+        print("Nuke obliterates Foot, You Win !!!!!!!!!!!!!")
+    elif playerschoice=="Cockroach:" and botchoice=="nuke":
+        print("Cockroach survives  Nuke You Win!!!!!!!!!!!!")
+    elif playerschoice==botchoice:
+        print("It's a tie :(")
+    else:
+        print("You lose :(")
+    exitgame=input("Do you want to play again?(Y/N:")
+    if exitgame=="y":
+        gamestart=True
+    elif exitgame=="n":
+        gamestart=False
+        print("Thanks for playing!")
+        print("Goodbye!")
+        exit()
