@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FNC.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aaron_zuxxajk\\source\\repos\\Aaro2745\\Foot-Nuke-Cockroach-\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aaron_zuxxajk\\source\\repos\\Aaro2745\\Foot-Nuke-Cockroach-\\LICENSE||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LICENSE||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aaron_zuxxajk\\source\\repos\\Aaro2745\\Foot-Nuke-Cockroach-\\background.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:background.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
@@ -28,23 +36,10 @@
               "RelativeDocumentMoniker": "FNC.py",
               "ToolTip": "C:\\Users\\Aaron_zuxxajk\\source\\repos\\Aaro2745\\Foot-Nuke-Cockroach-\\FNC.py",
               "RelativeToolTip": "FNC.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACUAAAAcAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEZSURBVDhPrZMhjoRAEEU/G2QLJAJBJwgkFyAZNJpTYFBjCIKgJgiOgOQICA6ABNckiDYIJAkHqDW7G3rZySTM/uSLrup6XVVJa1w8CBcl3TvwBbhkLh70cSTatg3btqHr\u002BjEMwzDAGFNi31IAQgjUdQ0pJeI4BmMMbdtiGAbM84yqqo7Xgd\u002BAdV0RBAGiKEKSJEjTFOu6gnMOzjlM04TneccSdQf7vlNd1ySEoKIoqOs6CsPwNPvTHWzbhjzP4fs\u002BsizDOI643W4AAF3XUZYlHMc5lqgdSCmVFxhjNAwD9X1PQghqmubUgQKwLOvUJgByXffP3GmEZVmOxx9N0/Q0pwCu6H8BRHTyKykATdNOfqW3R9De\u002Bc4A8AnhJaveChMRqwAAAABJRU5ErkJggg==",
               "WhenOpened": "2026-06-22T18:46:37.897Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "background.py",
-              "DocumentMoniker": "C:\\Users\\Aaron_zuxxajk\\source\\repos\\Aaro2745\\Foot-Nuke-Cockroach-\\background.py",
-              "RelativeDocumentMoniker": "background.py",
-              "ToolTip": "C:\\Users\\Aaron_zuxxajk\\source\\repos\\Aaro2745\\Foot-Nuke-Cockroach-\\background.py",
-              "RelativeToolTip": "background.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEZSURBVDhPrZMhjoRAEEU/G2QLJAJBJwgkFyAZNJpTYFBjCIKgJgiOgOQICA6ABNckiDYIJAkHqDW7G3rZySTM/uSLrup6XVVJa1w8CBcl3TvwBbhkLh70cSTatg3btqHr\u002BjEMwzDAGFNi31IAQgjUdQ0pJeI4BmMMbdtiGAbM84yqqo7Xgd\u002BAdV0RBAGiKEKSJEjTFOu6gnMOzjlM04TneccSdQf7vlNd1ySEoKIoqOs6CsPwNPvTHWzbhjzP4fs\u002BsizDOI643W4AAF3XUZYlHMc5lqgdSCmVFxhjNAwD9X1PQghqmubUgQKwLOvUJgByXffP3GmEZVmOxx9N0/Q0pwCu6H8BRHTyKykATdNOfqW3R9De\u002Bc4A8AnhJaveChMRqwAAAABJRU5ErkJggg==",
-              "WhenOpened": "2026-06-22T21:20:28.238Z",
               "EditorCaption": ""
             },
             {
@@ -58,24 +53,49 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Aaron_zuxxajk\\source\\repos\\Aaro2745\\Foot-Nuke-Cockroach-\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Aaron_zuxxajk\\source\\repos\\Aaro2745\\Foot-Nuke-Cockroach-\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-22T23:31:27.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LICENSE",
+              "DocumentMoniker": "C:\\Users\\Aaron_zuxxajk\\source\\repos\\Aaro2745\\Foot-Nuke-Cockroach-\\LICENSE",
+              "RelativeDocumentMoniker": "LICENSE",
+              "ToolTip": "C:\\Users\\Aaron_zuxxajk\\source\\repos\\Aaro2745\\Foot-Nuke-Cockroach-\\LICENSE",
+              "RelativeToolTip": "LICENSE",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-22T23:31:04.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "background.py",
+              "DocumentMoniker": "C:\\Users\\Aaron_zuxxajk\\source\\repos\\Aaro2745\\Foot-Nuke-Cockroach-\\background.py",
+              "RelativeDocumentMoniker": "background.py",
+              "ToolTip": "C:\\Users\\Aaron_zuxxajk\\source\\repos\\Aaro2745\\Foot-Nuke-Cockroach-\\background.py",
+              "RelativeToolTip": "background.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEZSURBVDhPrZMhjoRAEEU/G2QLJAJBJwgkFyAZNJpTYFBjCIKgJgiOgOQICA6ABNckiDYIJAkHqDW7G3rZySTM/uSLrup6XVVJa1w8CBcl3TvwBbhkLh70cSTatg3btqHr\u002BjEMwzDAGFNi31IAQgjUdQ0pJeI4BmMMbdtiGAbM84yqqo7Xgd\u002BAdV0RBAGiKEKSJEjTFOu6gnMOzjlM04TneccSdQf7vlNd1ySEoKIoqOs6CsPwNPvTHWzbhjzP4fs\u002BsizDOI643W4AAF3XUZYlHMc5lqgdSCmVFxhjNAwD9X1PQghqmubUgQKwLOvUJgByXffP3GmEZVmOxx9N0/Q0pwCu6H8BRHTyKykATdNOfqW3R9De\u002Bc4A8AnhJaveChMRqwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-06-22T21:20:28.238Z",
+              "EditorCaption": ""
             }
           ]
         }
       ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "17b80984-416c-43c3-9945-e06f705605e1",
-        "Display": 0,
-        "X": 1048,
-        "Y": 280,
-        "Width": 1024,
-        "Height": 673,
-        "WindowState": 0
-      },
-      "DocumentGroups": []
     }
   ]
 }
